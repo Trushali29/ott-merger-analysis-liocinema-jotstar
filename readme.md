@@ -1,6 +1,6 @@
 # <center> Insights for a Strategic Merger in the OTT Domain  </center>
 
-Churn Precition ML Project - https://github.com/Trushali29/ott-merger-analysis-liocinema-jotstar/blob/cf424ae651a56422d5a058f54e7533c6fd9d3f31/churn_prediction/ml_readme.md
+Churn Prediction ML Project - https://github.com/Trushali29/ott-merger-analysis-liocinema-jotstar/blob/cf424ae651a56422d5a058f54e7533c6fd9d3f31/churn_prediction/ml_readme.md
 
 
 The project topic and questions were taken from a codebasic resume project challenge - https://codebasics.io/challenge/codebasics-resume-project-challenge
